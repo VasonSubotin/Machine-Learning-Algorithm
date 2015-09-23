@@ -1,0 +1,13 @@
+function[c]=w_aaPopa(x,y)
+n=97;
+x=0;
+y=0;
+w_aaPopa:=y*sin(x);
+%for i=0:n
+   % temp1=Theta1-i;
+        
+%end;
+%w_aaPopa:=a
+Disp(w_aaPopa);
+end
+    
